@@ -1,3 +1,7 @@
+# ResNet Auto Training
+
+This project simplifies the process of data labeling by automating the creation of color masks using Sam2 prompts. Users can manually correct errors in the generated masks, and Sam2 further automates the masking process to produce ground truth values for ResNet training.
+
 # Instructions
 
 1. `cd Sam2Masks`
